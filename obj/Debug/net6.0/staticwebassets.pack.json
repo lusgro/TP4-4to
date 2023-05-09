@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP4.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Medias\\Medias_Boca.png",
+      "PackagePath": "staticwebassets\\images\\Medias\\Medias_Boca.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Medias\\Medias_Estudiantes.png",
+      "PackagePath": "staticwebassets\\images\\Medias\\Medias_Estudiantes.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Medias\\Medias_Independiente.png",
+      "PackagePath": "staticwebassets\\images\\Medias\\Medias_Independiente.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Medias\\Medias_Racing.png",
+      "PackagePath": "staticwebassets\\images\\Medias\\Medias_Racing.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Medias\\Medias_River.png",
+      "PackagePath": "staticwebassets\\images\\Medias\\Medias_River.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Pantalones\\Pantalon_Boca.png",
+      "PackagePath": "staticwebassets\\images\\Pantalones\\Pantalon_Boca.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Pantalones\\Pantalon_Estudiantes.png",
+      "PackagePath": "staticwebassets\\images\\Pantalones\\Pantalon_Estudiantes.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Pantalones\\Pantalon_Independiente.png",
+      "PackagePath": "staticwebassets\\images\\Pantalones\\Pantalon_Independiente.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Pantalones\\Pantalon_Racing.png",
+      "PackagePath": "staticwebassets\\images\\Pantalones\\Pantalon_Racing.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Pantalones\\Pantalon_River.png",
+      "PackagePath": "staticwebassets\\images\\Pantalones\\Pantalon_River.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Remeras\\Remera_Boca.png",
+      "PackagePath": "staticwebassets\\images\\Remeras\\Remera_Boca.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Remeras\\Remera_Estudiantes.png",
+      "PackagePath": "staticwebassets\\images\\Remeras\\Remera_Estudiantes.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Remeras\\Remera_Independiente.png",
+      "PackagePath": "staticwebassets\\images\\Remeras\\Remera_Independiente.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Remeras\\Remera_Racing.png",
+      "PackagePath": "staticwebassets\\images\\Remeras\\Remera_Racing.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Remeras\\Remera_River.png",
+      "PackagePath": "staticwebassets\\images\\Remeras\\Remera_River.png"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\4IB\\Programacion\\TP4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TP4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TP4.props",
+      "PackagePath": "build\\TP4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TP4.props",
+      "PackagePath": "buildMultiTargeting\\TP4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TP4.props",
+      "PackagePath": "buildTransitive\\TP4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

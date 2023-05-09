@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<a href='@Url.Action("SelectIndumentaria")'>Indumentaria</a>
+<table>
+    @foreach (var equipo in ViewBag.dicEquiposIndumentaria)
+    {
+        <tr>
+            <td>@equipo.Key</td>
+            <td><img src="/images/Medias/@equipo.Value.medias" width="300" height="auto"></td>
+            <td><img src="/images/Pantalones/@equipo.Value.pantalon" width="300" height="auto"></td>
+            <td><img src="/images/Remeras/@equipo.Value.camiseta" width="300" height="auto"></td>
+        </tr>
+    }
+</table>

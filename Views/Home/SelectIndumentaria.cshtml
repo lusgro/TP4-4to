@@ -1,0 +1,45 @@
+@{
+    ViewData["Title"] = "SelectIndumentaria";
+}
+
+<h2>@ViewBag.Error</h2>
+
+<form action='@Url.Action("GuardarIndumentaria")'>
+    <table>
+        <tr>
+            <td>Equipos</td>
+            <td>Medias</td>
+            <td>Pantalones</td>
+            <td>Camisetas</td>
+        </tr>
+        <tr>
+            @foreach (var item in ViewBag.ListaEquipos)
+            {
+                <td>@item</td>
+            }
+            <td><input type="number" name="equipo" value="1" min="1" max=@ViewBag.ListaEquipos.Count step="1" required/></td>
+        </tr>
+        <tr>
+            @foreach (var item in ViewBag.ListaMedias)
+            {
+                <td><img src="/images/Medias/@item" width="300" height="auto"></td>
+            }
+            <td><input type="number" name="media" value="1" min="1" max=@ViewBag.ListaMedias.Count step="1" required/></td>
+        </tr>
+        <tr>
+            @foreach (var item in ViewBag.ListaPantalones)
+            {
+                <td><img src="/images/Pantalones/@item" width="300" height="auto"></td>
+            }
+            <td><input type="number" name="pantalon" value="1" min="1" max=@ViewBag.ListaPantalones.Count step="1" required/></td>
+        </tr>
+        <tr>
+            @foreach (var item in ViewBag.ListaRemeras)
+            {
+                <td><img src="/images/Remeras/@item" width="300" height="auto"></td>
+            }
+            <td><input type="number" name="remera" value="1" min="1" max=@ViewBag.ListaRemeras.Count step="1" required/></td>
+        </tr>
+    </table>
+    <input type="submit" value="Enviar"/>
+</form>
